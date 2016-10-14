@@ -7,9 +7,9 @@ Does not add any new items. Chance to generate snub nose variant ~ 1/3.
 Will not be compatible with any other mod that adds additional gun barrel variants, there are none that i could find, but if you experience a compatability issue let me know and i'll produce a patch ASAP.
 
 [url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
-Find the server version on [url=https://github.com/IsaacHart/sbmod-snarm]git.[/url]",
-  "friendlyName" : "Snub Nose Armory Tweaks",
+Find the server version on [url=https://github.com/IsaacHart/sbmod-snarmt]git.[/url]",
+  "friendlyName" : "Snub-Nose Armory Tweaks",
   "link" : "community.playstarbound.com/threads/124193/",
-  "name" : "SNARM.IHC",
+  "name" : "SNARMT.IHC",
   "version" : "0.1"
 }
